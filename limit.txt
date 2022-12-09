@@ -1,0 +1,11 @@
+
+Evimden okuluma bisiklet ile gitmem gerektiğini düşünelim.
+Okula varmak için de bir çılgınlık yapıp her seferinde kalan yolun yarısı olucak şekilde okuluma ilerlediğimi farz edelim.
+Her seferinde biraz daha yaklaşıyorum ama bir türlü yol bitmiyor. Peki ya neden ?
+Belirli bir mesafenin yarısı gidildikten sonra geriye kalan mesafenin sürekli olarak yarısı katledildiğinde bu işlem sonsuza kadar sürer ve okula asla varamam çünkü kalan mesafe asla 0'a eşit olmaz.Ancak 0 a çok yaklaşır.
+İşte matematikteki limit kavramıyla da bir fonksiyondaki x değerleri belirli bir sayıya yaklaşırken fonksiyon grafiğinin nasıl davranacağı gözlemlenir.
+
+Bunu bir örnekle ifade edelim:
+Bunun için öncelikle x değerini 1’e eşit alalım (x=1). Bu değer 0’ın sağında ve 0’dan oldukça uzaktadır. x değeri 1’e eşitken, fonksiyonumuzun değeri 1’dir yani f(1)=1.
+
+Şimdi 0’a biraz daha yaklaşalım ve x değerini 1/2 olarak seçelim. Bu durumda fonksiyonun değeri 2 olur. Bu şekilde sayılarımızı 0’ın sağından ve 0’a giderek yaklaştırdığımızda f(x) fonksiyonunun değerlerinin giderek büyüdüğünü gözlemleyebiliriz.
